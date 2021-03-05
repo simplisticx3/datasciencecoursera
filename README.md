@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-print("Hello!")
+Hello class!
